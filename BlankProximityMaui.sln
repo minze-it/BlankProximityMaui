@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlankProximityMaui", "blankMaui\BlankProximityMaui.csproj", "{29A2BB5C-7063-4761-A244-3AB0ECC45C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A2BB5C-7063-4761-A244-3AB0ECC45C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A2BB5C-7063-4761-A244-3AB0ECC45C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A2BB5C-7063-4761-A244-3AB0ECC45C53}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{29A2BB5C-7063-4761-A244-3AB0ECC45C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A2BB5C-7063-4761-A244-3AB0ECC45C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A2BB5C-7063-4761-A244-3AB0ECC45C53}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F36885D0-2649-419C-94EE-F9B61CF879D1}
+	EndGlobalSection
+EndGlobal
